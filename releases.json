@@ -1079,6 +1079,14 @@
       "3.34.1-1"
     ]
   },
+  "stc": {
+    "dependency_names": [
+      "stc"
+    ],
+    "versions": [
+      "2.0-rc.1"
+    ]
+  },
   "tclap": {
     "dependency_names": [
       "tclap"

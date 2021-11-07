@@ -1,0 +1,9 @@
+[wrap-file]
+directory = STC-2.0-rc
+source_url = https://github.com/tylov/STC/archive/v2.0-rc.tar.gz
+source_filename = STC-2.0-rc.tar.gz
+source_hash = 4d374878d119121d205c6bd0a6e91e358f29237ba43a893ec599798ba0c173ae
+patch_directory = stc
+
+[provide]
+stc = stc_dep
